@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LilitAdoyan;
-- 👀 I’m interested in frontend development, functional programming in Javascript, React, React-Native;
+- 👀 I’m interested in software development, functional programming in Javascript, React, React-Native, C#;
 - 👀 I have quite challenging projects left behind in web scraping and process automation, web monitoring, lead generation, etc.. My strongest areas include Javascript, Typescript, HTML (semantic HTML with SEO best practices), CSS(SCSS/LESS/tailwind),  REST, apollo graphql, Redux Toolkit, SQL, React with its classical client side rendering as well as server side rendering frameworks such as Gatsby, Next.js. I have good understanding of backend development and database management systems; my technical stack includes UDML as well
 - 🌱 I’m always learning new challanging skills;
 - 💞️ I’m looking to collaborate on challenging projects in software development;
